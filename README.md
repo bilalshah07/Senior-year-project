@@ -1,7 +1,7 @@
 # Senior-year-project
 Some Quantum Optical Experiments with Single Photons and FPGA Programming
 
-Folder 1: Sample Data
+Folder 1: Final Data
 
 This folder contains the data we collected in the lab for our final run. All the related counts are stored in '.txt' files
 with appropriate file names. Along with these you will find some '.py' files named (mostly) 'post_collection.py' and
