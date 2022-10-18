@@ -54,7 +54,7 @@ this header has been set to '10011001100010010101010101011101'. Changing this he
 
 Contact
 
-- For any queries or help feel free to contact me at bilal.hyder@lums.edu.pk
+- For any queries or help feel free to contact me at 22100181@lums.edu.pk
 
 						
 						--- Happy counting :D ---
